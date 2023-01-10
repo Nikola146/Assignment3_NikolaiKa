@@ -19,5 +19,15 @@ namespace BMI_Index
             label3.Text = $"BMI: {result:F2}";
             label4.Text = $"Status: {status}";
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
